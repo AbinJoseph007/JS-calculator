@@ -1,5 +1,5 @@
 *{
-    background-color: rgb(2, 50, 92);
+    background-color: rgb(3, 11, 18);
 }
 
 table {
@@ -17,7 +17,7 @@ input[type="button"] {
     font-size: 24px;
     font-weight: light;
     border: none;
-    border-radius: 5px;
+    border-radius: 50px;
     
 }
   
@@ -27,12 +27,13 @@ input[type="text"] {
     font-weight: bold;
     border: none;
     border-radius: 5px;
-    border: 2px solid black;
+    border: 2px solid rgb(244, 237, 237);
     background-color: white;
 }
 
 td{       
-    border:1px solid black
+    border:1px solid rgb(244, 233, 233);
+    border-radius: 3px;
 }
 #result{
     width:500px;
